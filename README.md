@@ -11,7 +11,7 @@ ___
 ###  Reminders for myself
 1. The hard tasks are what I'm going to grow the most from.
 1. Remember not to compare yourself with others. You're new to this and on your *own path*.
-1. Enjoy the process and the journey. :om:
+1. Enjoy the process and the journey. 
 
 ![mindset](https://info.variquest.com/hs-fs/hubfs/PD/Growth%20Mindset%20Webinar%20Graphic.png?width=756&name=Growth%20Mindset%20Webinar%20Graphic.png)!
 
