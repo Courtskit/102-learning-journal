@@ -21,7 +21,7 @@ Whether it is formatting some text as bold or italic, adding images or creating 
 A file with a markdown extension will end in ".md" or ".markdown"
 ___
 ## The Growth Mindset
-*A mindset that sets you up for sucess and growth.*
+*A mindset that sets you up for success and growth.*
 
-Evaluating and realizing that you have a Growth Mindset is critical when trying to acheive a big goal. A Growth Mindset has you positioned to continuously improve in whatever it is that you are trying to accomplish. 
+Evaluating and realizing that you have a Growth Mindset is critical when trying to achieve a big goal. A Growth Mindset has you positioned to continuously improve in whatever it is that you are trying to accomplish. 
   
