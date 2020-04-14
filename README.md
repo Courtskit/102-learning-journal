@@ -14,7 +14,7 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ---
 
-- [Growth Mindset](./codejournal/growthmindset)
+- [Growth Mindset](./codejournal/growthmindset.md)
 
 ---
 
