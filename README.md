@@ -15,4 +15,6 @@ ___
 
 ![mindset](https://info.variquest.com/hs-fs/hubfs/PD/Growth%20Mindset%20Webinar%20Graphic.png?width=756&name=Growth%20Mindset%20Webinar%20Graphic.png)!
 
-https://github.com/Courtskit
+
+
+[My Github Profile](https://github.com/Courtskit)
