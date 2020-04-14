@@ -1,11 +1,11 @@
 # Lets Review 
 ## Github
-*A platform for creating, sharing and networking.*
+*A online platform for creating, sharing and collaborating.*
 
 Github comes with templates to easily publish a simple web page. 
 ___
 ## Visual Studio Code
-*A great code editor.*
+*A great code editor for programming.*
 
 This Code Editor has downloadable extensions that can be used to enhance the coders experience and workflow. In other words, having a good code editor can save a programmer alot of time.
 ___
