@@ -14,4 +14,3 @@ Every single thing on a computer is in some way as simple as a file.
 Learning the different ways to get around your terminal can help you with productivity in managing your files.
 To list all files in your current directory you can type "ls" into the terminal. Ls stands for list.
 Fun fact: Linux files do not need an extension.
-___
