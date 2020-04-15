@@ -38,6 +38,10 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ---
 
+- [Dynamic Web Pages with JavaScript](./codejournal/webpagesjs06a.md)
+
+---
+
 - [GitHub Profile](https://github.com/Courtskit)
 
 ---
