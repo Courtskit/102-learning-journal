@@ -26,4 +26,16 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ---
 
+- [Git Notes](./codejournal/gitnotes03.md)
+
+---
+
+- [HTML Structure Notes](./codejournal/htmlstructure04.md)
+
+---
+
 - [GitHub Profile](https://github.com/Courtskit)
+
+---
+
+- [LinkedIn Profile](https://www.linkedin.com/in/courtneycodes/)
