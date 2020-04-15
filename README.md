@@ -34,6 +34,10 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ---
 
+- [CSS Basics and Color Notes](./codejournal/cssbasicsandcolor.md)
+
+---
+
 - [GitHub Profile](https://github.com/Courtskit)
 
 ---
