@@ -46,6 +46,10 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ---
 
+- [Programming with Javascript](./codejournal/programmingjs.md)
+
+---
+
 - [GitHub Profile](https://github.com/Courtskit)
 
 ---
