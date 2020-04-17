@@ -50,6 +50,10 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ---
 
+- [Operations and Loops](./codejournal/opsandloops.md)
+
+---
+
 - [GitHub Profile](https://github.com/Courtskit)
 
 ---
